@@ -1,1 +1,1 @@
-## Classical Page Rank and Hits Algorithm using Adjacency Matrix
+## Classical Page Rank and HITS Algorithm using Adjacency Matrix
