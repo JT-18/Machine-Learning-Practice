@@ -9,7 +9,7 @@ Fundamental Machine Learning Algorithms and their Implementation from scratch.
 ## Clustering Algorithms folder contains:
 <ol>
 <li>k means clustering model on Wisconsin Breast-Cancer Dataset.</li>
-<li>K means clustering model on Classic Iris Dataset </li>
+<li>k means clustering model on Classic Iris Dataset </li>
 </ol>
 
 ## Page rank Algorithms folder contains :
