@@ -14,5 +14,9 @@ similar data points together using certain metrics.</p>
 <li>Calculate the varience of the clusteres</li>
 <li>If the varience of previous iteration is less than the current iteration then stop the clustering algorithm</li>
 </ol>
-
 <b>Reference for k means Algorithm </b> <a href = "https://youtu.be/1XqG0kaJVHY">K means clustering video</a>
+<h5>Instruction for running the code</h5>
+<ul>
+  <li>k is the number of classes in the dataset.If known beforehand one can directly initialize k with no of classes in the dataset.</li>
+
+
